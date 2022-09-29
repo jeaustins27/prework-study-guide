@@ -11,7 +11,6 @@ N/A
 ## Usage
 
 Each topic is broken down into different categories to help you learn about each subject individually. You can open the DevTools console to see the JavaScript running; it lists the topics that were learned in the prework and also suggest which topics to study first!
-Provide instructions and examples for use. Include screenshots as needed.
 
 ## Credits
 
@@ -19,6 +18,6 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
 
 ---
