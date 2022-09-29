@@ -2,7 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 This project was designed to teach students some of the basics involved with HTML, CSS, JavaScript, and Git commands. Coding is ever changing and sometimes it can get hard to remember everything. If you find yourself stuck within your own project, you can refer to the study guide to remind yourself of important details you may have missed when writing your own code. Within the development of this project I found myself reverting back to my own study guide, which was a great help!
 
 ## Installation
